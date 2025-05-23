@@ -1,6 +1,6 @@
 # ESP32-Quad-nRF24L01-Plus-Jammer-Multi-Band-2-4GHz-RF-Controller
 
-This project allows an ESP32 board to control **four nRF24L01+ modules** for RF jamming or channel sweeping across multiple 2.4GHz bands. Each module can be independently controlled and jam on its own channel. Modes are selectable via serial commands.
+This project allows an ESP32 board to control **four nRF24L01+ modules** for RF jamming (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer, ...) or channel sweeping across multiple 2.4GHz bands. Each module can be independently controlled and jam on its own channel. Modes are selectable via serial commands.
 
 ---
 
